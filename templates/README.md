@@ -1,1 +1,1 @@
-stub only.  content to follow.
+Reusable Note Templates
