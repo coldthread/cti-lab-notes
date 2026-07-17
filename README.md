@@ -15,7 +15,7 @@ not a polished final product, and that's the point.
 - **templates/** the note formats these entries are written against.
 - **editing_guide.md** the documentation standard this repo follows.
 
-## Start here
+## 
 
 - [placeholder: link to the strongest analysis artifact]
 - [placeholder: link to a representative build note]
